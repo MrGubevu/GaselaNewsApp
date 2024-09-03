@@ -6,12 +6,12 @@ const StyledFooter = styled.View`
     bottom: 0;
     left: 0;
     right: 0;
-    flexDirection: 'row';
-    justifyContent: 'space-between', ;
-    backgroundColor: '#FFFFFF';
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #FFFFFF;
     height: 80px;
     padding: 20px;
-    alignItems: 'center',
+    align-items: center;
 `
     export {StyledFooter}
  

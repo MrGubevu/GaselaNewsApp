@@ -29,7 +29,6 @@ padding: 20px;
 border-radius: 10px;
 shadow-color: #000;
 shadow-offset: 0 2px;
-shadow-opacity: 0.25;
 shadow-radius: 4px;
 `
 
